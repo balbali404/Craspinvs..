@@ -1,6 +1,6 @@
 #python 3.7.1
 
-mport os
+import os
 os.system('printf "\033[3;32m" ')
 aaa=input('Entre name The LisT : ')
 os.system('clear')
